@@ -20,7 +20,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.15.0",
     "jquery": "^3.5.0",
-    "mongoose": "^4.13.18",
+    "mongoose": "^5.7.5",
     "mongoose-unique-validator": "^2.0.2",
     "mysql": "^2.16.0",
     "mysql2": "^1.6.5",
